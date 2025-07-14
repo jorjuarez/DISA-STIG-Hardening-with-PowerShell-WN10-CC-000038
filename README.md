@@ -34,3 +34,11 @@ Unblock-File -Path '.\Set-StigCompliance.WN10-CC-000038.ps1'
 
 # Execute the script to apply the remediation.
 .\'Set-StigCompliance.WN10-CC-000038.ps1'
+```
+
+## Disclaimer
+These scripts are provided as-is. Always test them in a non-production environment before deploying to live systems. The user assumes all risk associated with running these scripts.
+
+## Connect With Me
+* **LinkedIn:** linkedin.com/in/jorgejuarez1
+* **GitHub:** github.com/jorjuarez
